@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/cli-spinner": "^0.2.1",
+    "@types/progress": "^2.0.5",
+    "@types/yargs": "^17.0.22",
+    "cli-spinner": "^0.2.10",
+    "dev-null": "^0.1.1",
+    "etcher-sdk": "^8.3.0",
+    "gunzip-maybe": "^1.4.2",
+    "progress": "^2.0.3",
+    "tar-stream": "^3.0.0",
+    "tmp": "^0.2.1",
+    "yargs": "^17.7.0"
+  }
+}
